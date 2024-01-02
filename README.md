@@ -29,6 +29,8 @@ A collection of algorithm and data structure problems.
 
 - [1. Two Sum](./leetyard_Solutions/1.twoSum.js) ([LeetCode](https://leetcode.com/problems/two-sum/))
 - [26. Remove Duplicates From Sorted Array](./leetyard_Solutions/26.RemoveDuplicatesFromSortedArray.js) ([LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/))
+- [1929. Concatenation of Array](./leetyard_Solutions/1929.ConcatenationofArray.js) ([LeetCode](https://leetcode.com/problems/concatenation-of-array/description/))
+- [69. Sqrt(x)](<./leetyard_Solutions/69.Sqrt(x).js>) ([LeetCode](https://leetcode.com/problems/sqrtx/))
 
 <!-- ### Data Structure 2
 
