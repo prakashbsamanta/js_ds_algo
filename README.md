@@ -27,10 +27,10 @@ A collection of algorithm and data structure problems.
 
 ### Data Structure 1
 
-- [1. Two Sum](./leetyard_Solutions/1.twoSum.js) ([LeetCode➡️](https://leetcode.com/problems/two-sum/){:target="\_blank"})
-- [26. Remove Duplicates From Sorted Array](./leetyard_Solutions/26.RemoveDuplicatesFromSortedArray.js) ([LeetCode➡️](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/){:target="\_blank"})
-- [1929. Concatenation of Array](./leetyard_Solutions/1929.ConcatenationofArray.js) ([LeetCode➡️](https://leetcode.com/problems/concatenation-of-array/description/){:target="\_blank"})
-- [69. Sqrt(x)](<./leetyard_Solutions/69.Sqrt(x).js>) ([LeetCode➡️](https://leetcode.com/problems/sqrtx/){:target="\_blank"})
+- [1. Two Sum](./leetyard_Solutions/1.twoSum.js) (<a href="https://leetcode.com/problems/two-sum/" target="_blank">LeetCode➡️</a>)
+- [26. Remove Duplicates From Sorted Array](./leetyard_Solutions/26.RemoveDuplicatesFromSortedArray.js) (<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/" target="_blank">LeetCode➡️</a>)
+- [1929. Concatenation of Array](./leetyard_Solutions/1929.ConcatenationofArray.js) (<a href="https://leetcode.com/problems/concatenation-of-array/description/" target="_blank">LeetCode➡️</a>)
+- [69. Sqrt(x)](<./leetyard_Solutions/69.Sqrt(x).js>) (<a href="https://leetcode.com/problems/sqrtx/" target="_blank">LeetCode➡️</a>)
 
 <!-- ### Data Structure 2
 
