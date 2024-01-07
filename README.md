@@ -35,6 +35,8 @@ A collection of algorithm and data structure problems.
 
 - [Majority Element](./leetyard_Solutions/169.MajorityElement.js) (<a href="https://leetcode.com/problems/majority-element/description/ " target="_blank">LeetCode➡️</a>)
 
+- [Move Zeros](./leetyard_Solutions/283.MoveZeroes.js) (<a href="https://leetcode.com/problems/move-zeroes/description/" target="_blank">LeetCode➡️</a>)
+
 - [Concatenation of Array](./leetyard_Solutions/1929.ConcatenationofArray.js) (<a href="https://leetcode.com/problems/concatenation-of-array/description/" target="_blank">LeetCode➡️</a>)
 
 ### [Data Structure With GeeksForGeeks](./geeksForGeeks_Solutions/)
