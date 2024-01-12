@@ -41,6 +41,8 @@ A collection of algorithm and data structure problems.
 
 - [Repeated Substring Pattern](./leetyard_Solutions/459.RepeatedSubstringPattern.js.js) (<a href="https://leetcode.com/problems/repeated-substring-pattern/description/" target="_blank">LeetCode➡️</a>)
 
+- [Determine if String Halves Are Alike](./leetyard_Solutions/1704.DetermineifStringHalvesAreAlike.js.js) (<a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/description/" target="_blank">LeetCode➡️</a>)
+
 - [Concatenation of Array](./leetyard_Solutions/1929.ConcatenationofArray.js) (<a href="https://leetcode.com/problems/concatenation-of-array/description/" target="_blank">LeetCode➡️</a>)
 
 ### [Data Structure With GeeksForGeeks](./geeksForGeeks_Solutions/)
