@@ -51,6 +51,8 @@ A collection of algorithm and data structure problems.
 
 - [Find Common Elements In Three Sorted Arrays](./geeksForGeeks_Solutions/FindCommonElementsInThreeSortedArrays.js) (<a href="https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/" target="_blank">GeeksForGeeks➡️</a>)
 
+- [Reverse a string preserving space positions](./geeksForGeeks_Solutions/ReverseAStringPreservingSpacePositions.js) (<a href="https://www.geeksforgeeks.org/reverse-string-preserving-space-positions/" target="_blank">GeeksForGeeks➡️</a>)
+
 ## Additional Resources
 
 - [LeetCode](https://leetcode.com)
