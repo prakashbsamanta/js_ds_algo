@@ -37,11 +37,13 @@ A collection of algorithm and data structure problems.
 
 - [Move Zeros](./leetyard_Solutions/283.MoveZeroes.js) (<a href="https://leetcode.com/problems/move-zeroes/description/" target="_blank">LeetCode➡️</a>)
 
-- [Is Subsequence](./leetyard_Solutions/392.IsSubsequence.js.js) (<a href="https://leetcode.com/problems/is-subsequence/description/" target="_blank">LeetCode➡️</a>)
+- [Is Subsequence](./leetyard_Solutions/392.IsSubsequence.js) (<a href="https://leetcode.com/problems/is-subsequence/description/" target="_blank">LeetCode➡️</a>)
 
-- [Repeated Substring Pattern](./leetyard_Solutions/459.RepeatedSubstringPattern.js.js) (<a href="https://leetcode.com/problems/repeated-substring-pattern/description/" target="_blank">LeetCode➡️</a>)
+- [Repeated Substring Pattern](./leetyard_Solutions/459.RepeatedSubstringPattern.js) (<a href="https://leetcode.com/problems/repeated-substring-pattern/description/" target="_blank">LeetCode➡️</a>)
 
-- [Determine if String Halves Are Alike](./leetyard_Solutions/1704.DetermineifStringHalvesAreAlike.js.js) (<a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/description/" target="_blank">LeetCode➡️</a>)
+- [Longest Harmonious Subsequence](./leetyard_Solutions/594.LongestHarmoniousSubsequence.js) (<a href="https://leetcode.com/problems/longest-harmonious-subsequence/description/" target="_blank">LeetCode➡️</a>)
+
+- [Determine if String Halves Are Alike](./leetyard_Solutions/1704.DetermineifStringHalvesAreAlike.js) (<a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/description/" target="_blank">LeetCode➡️</a>)
 
 - [Concatenation of Array](./leetyard_Solutions/1929.ConcatenationofArray.js) (<a href="https://leetcode.com/problems/concatenation-of-array/description/" target="_blank">LeetCode➡️</a>)
 
