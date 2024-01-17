@@ -37,6 +37,8 @@ A collection of algorithm and data structure problems.
 
 - [Move Zeros](./leetyard_Solutions/283.MoveZeroes.js) (<a href="https://leetcode.com/problems/move-zeroes/description/" target="_blank">LeetCode➡️</a>)
 
+- [Reverse String](./leetyard_Solutions/344.ReverseString.js) (<a href="https://leetcode.com/problems/reverse-string/description//" target="_blank">LeetCode➡️</a>)
+
 - [Is Subsequence](./leetyard_Solutions/392.IsSubsequence.js) (<a href="https://leetcode.com/problems/is-subsequence/description/" target="_blank">LeetCode➡️</a>)
 
 - [Repeated Substring Pattern](./leetyard_Solutions/459.RepeatedSubstringPattern.js) (<a href="https://leetcode.com/problems/repeated-substring-pattern/description/" target="_blank">LeetCode➡️</a>)
