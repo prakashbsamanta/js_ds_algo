@@ -49,6 +49,12 @@ A collection of algorithm and data structure problems.
 
 - [Rotate String](./leetyard_Solutions/796.RotateString.js) (<a href="https://leetcode.com/problems/rotate-string/description/" target="_blank">LeetCode➡️</a>)
 
+- [BackSpace String Compare](./leetyard_Solutions/844.BackspaceStringCompare.js) (<a href="https://leetcode.com/problems/backspace-string-compare/description/" target="_blank">LeetCode➡️</a>)
+
+- [HowMany Numbers Are Smaller Than the Current Number](./leetyard_Solutions/1365.HowManyNumbersAreSmallerThantheCurrentNumber.js) (<a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/" target="_blank">LeetCode➡️</a>)
+
+- [Shuffle String](./leetyard_Solutions/1528.ShuffleString.js) (<a href="https://leetcode.com/problems/shuffle-string/description/" target="_blank">LeetCode➡️</a>)
+
 - [Determine if String Halves Are Alike](./leetyard_Solutions/1704.DetermineifStringHalvesAreAlike.js) (<a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/description/" target="_blank">LeetCode➡️</a>)
 
 - [Concatenation of Array](./leetyard_Solutions/1929.ConcatenationofArray.js) (<a href="https://leetcode.com/problems/concatenation-of-array/description/" target="_blank">LeetCode➡️</a>)
