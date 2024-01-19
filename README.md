@@ -43,7 +43,11 @@ A collection of algorithm and data structure problems.
 
 - [Repeated Substring Pattern](./leetyard_Solutions/459.RepeatedSubstringPattern.js) (<a href="https://leetcode.com/problems/repeated-substring-pattern/description/" target="_blank">LeetCode➡️</a>)
 
+- [Reverse String II](./leetyard_Solutions/541.ReverseStringII.js) (<a href="https://leetcode.com/problems/reverse-string-ii/description/" target="_blank">LeetCode➡️</a>)
+
 - [Longest Harmonious Subsequence](./leetyard_Solutions/594.LongestHarmoniousSubsequence.js) (<a href="https://leetcode.com/problems/longest-harmonious-subsequence/description/" target="_blank">LeetCode➡️</a>)
+
+- [Rotate String](./leetyard_Solutions/796.RotateString.js) (<a href="https://leetcode.com/problems/rotate-string/description/" target="_blank">LeetCode➡️</a>)
 
 - [Determine if String Halves Are Alike](./leetyard_Solutions/1704.DetermineifStringHalvesAreAlike.js) (<a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/description/" target="_blank">LeetCode➡️</a>)
 
