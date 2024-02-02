@@ -29,6 +29,8 @@ A collection of algorithm and data structure problems.
 
 - [Two Sum](./leetyard_Solutions/1.twoSum.js) (<a href="https://leetcode.com/problems/two-sum/" target="_blank">LeetCode➡️</a>)
 
+- [Valid Parentheses](./leetyard_Solutions/20.ValidParentheses.js) (<a href="https://leetcode.com/problems/valid-parentheses/description/" target="_blank">LeetCode➡️</a>)
+
 - [Remove Duplicates From Sorted Array](./leetyard_Solutions/26.RemoveDuplicatesFromSortedArray.js) (<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/" target="_blank">LeetCode➡️</a>)
 
 - [Sqrt(x)](<./leetyard_Solutions/69.Sqrt(x).js>) (<a href="https://leetcode.com/problems/sqrtx/" target="_blank">LeetCode➡️</a>)
@@ -38,6 +40,8 @@ A collection of algorithm and data structure problems.
 - [Move Zeros](./leetyard_Solutions/283.MoveZeroes.js) (<a href="https://leetcode.com/problems/move-zeroes/description/" target="_blank">LeetCode➡️</a>)
 
 - [Reverse String](./leetyard_Solutions/344.ReverseString.js) (<a href="https://leetcode.com/problems/reverse-string/description//" target="_blank">LeetCode➡️</a>)
+
+- [Reverse Vowels of a String](./leetyard_Solutions/345.ReverseVowelsofaString.js) (<a href="https://leetcode.com/problems/reverse-vowels-of-a-string/description/" target="_blank">LeetCode➡️</a>)
 
 - [Is Subsequence](./leetyard_Solutions/392.IsSubsequence.js) (<a href="https://leetcode.com/problems/is-subsequence/description/" target="_blank">LeetCode➡️</a>)
 
@@ -58,6 +62,8 @@ A collection of algorithm and data structure problems.
 - [Determine if String Halves Are Alike](./leetyard_Solutions/1704.DetermineifStringHalvesAreAlike.js) (<a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/description/" target="_blank">LeetCode➡️</a>)
 
 - [Concatenation of Array](./leetyard_Solutions/1929.ConcatenationofArray.js) (<a href="https://leetcode.com/problems/concatenation-of-array/description/" target="_blank">LeetCode➡️</a>)
+
+- [Maximum Value of a string in an array](./leetyard_Solutions/2496.MaximumValueofaStringinanArray.js) (<a href="https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/" target="_blank">LeetCode➡️</a>)
 
 ### [Data Structure With GeeksForGeeks](./geeksForGeeks_Solutions/)
 
